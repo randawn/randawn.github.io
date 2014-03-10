@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "plan"
+date:   Tue, 11 Mar 2014 02:30:39 +0800
+categories: misc
+---
+
+#plan#
+
+## work:
+we got to work cause we got bill to pay
+
+## learn:
+### basic of basic:
+* __computer organization and design__
+    + chapter 5/7
+    + appendices A B C D E
+    + homework on chapter 1
+* __mhhe:__
+    + chapter 5/8
+    + homework on chapter 1
+* __a quantitative way__
+    + chapter 2
+* __structure and interpretation of computer programs__
+    + pdf read to 1.1
+
+### open course:
+* computer photograph
+* cs600: intro to computer
+* computer architecture
+* VLSI: from logic to layout
+
+### logic
+* IEEE 1364:
+* verilog intro
+    > [volverilog](http://vol.verilog.com)
+
+### ezbook
+* Perl: the animal book
+    > need the second one? 
+* the art of readable code
+
+### gadget
+* randawn.github.io
+    + github
+    + Jekyll
+    + octpress: doesnt clear now
+    + markdown: need this on this
+* vim
+this need to improve
+* emacs
+on plan
+* trivial article
+
+##music
+pass
+
+##workout
+they play dota
+soccer: watch clips means nothing
+    arch: on the keyboard
+    bike: on the balcony
+
+

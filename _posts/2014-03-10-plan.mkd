@@ -1,64 +1,47 @@
 ---
 layout: post
-title:  "plan"
-date:   Tue, 11 Mar 2014 02:30:39 +0800
+title:  "the books I read"
+date:   Tue, 10 Mar 2014 02:30:39 +0800
 categories: misc
 ---
 
-#plan#
-
-## work:
-we got to work cause we got bill to pay
-
-## learn:
-### basic of basic:
+#learn plan#
+### printed ones:
 * __computer organization and design__
-    + chapter 5/7
-    + appendices A B C D E
-    + homework on chapter 1
+    + read to chapter 5
+    + appendices A B C D E and stuff on CD need to complete
+    + homework on chapter 2
 * __mhhe:__
     + chapter 5/8
-    + homework on chapter 1
+    + homework on chapter 2
 * __a quantitative way__
     + chapter 2
+    + appendices A B C
+    + homework need to be done
+### pdf or online ones:
 * __structure and interpretation of computer programs__
-    + pdf read to 1.1
-
+    + read to 1.1
+* __IEEE 1364__:
+    + not yet read it over
+* __verilog intro__ > [volverilog](http://vol.verilog.com) [done]
 ### open course:
-* computer photograph
-* cs600: intro to computer
+* computer photograph [done]
+* cs600: intro to computer [done]
 * computer architecture
-* VLSI: from logic to layout
-
-### logic
-* IEEE 1364:
-* verilog intro
-    > [volverilog](http://vol.verilog.com)
-
-### ezbook
-* Perl: the animal book
-    > need the second one? 
-* the art of readable code
-
-### gadget
-* randawn.github.io
-    + github
+    + need to complete
+* VLSI: from logic to layout [running]
+### gadget:
+* __Perl__:
+    + the llama book [done]
+    + the alpaca book [suspend]
+* __the art of readable code__:
+    + read the printed book [suspend]
+* __Python__:
+    + read the py.tut [running]
+* __randawn.github.io__:
+    + github: read git pro
     + Jekyll
-    + octpress: doesnt clear now
     + markdown: need this on this
-* vim
-this need to improve
-* emacs
-on plan
-* trivial article
-
-##music
-pass
-
-##workout
-they play dota
-soccer: watch clips means nothing
-    arch: on the keyboard
-    bike: on the balcony
-
-
+* __vim__:
+    + give up on Emacs
+    + read more on help
